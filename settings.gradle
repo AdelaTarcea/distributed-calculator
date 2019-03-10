@@ -1,0 +1,4 @@
+rootProject.name = 'distributedCalculator'
+include 'client'
+include 'server'
+
